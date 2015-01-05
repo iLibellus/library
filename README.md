@@ -1,2 +1,2 @@
-myLibrary
-=========
+library
+
